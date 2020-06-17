@@ -1,0 +1,15 @@
+{
+  "name": "Default Google Meet account",
+  "version": "0.1.0",
+  "description": "Automatically redirect Google Meet meetings to a URL with ?authuser=1",
+  "permissions": ["webNavigation"],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "icons": {
+    "128": "icon.png"
+  },
+  "manifest_version": 2
+}
+
