@@ -12,7 +12,7 @@ Installation
 
 Until this extension is approved for the Google Web Store, you can install this in Chrome via developer mode.
 
-1. Download or clone this repository.
+1. Clone or download & unzip this repository.
 2. Visit chrome://extensions/
 3. Turn on the Developer mode toggle (top-right) if it’s not already on.
 4. Use the Load Unpacked button, and select the directory of the downloaded extension.
